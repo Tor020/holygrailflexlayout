@@ -12,12 +12,16 @@
 /*Holy Grail */
 .side, .body, .head, .footer{flex:1 100%;}
 .head { height:10vh;
-        flex: 100%;}
+        flex: 100%;
+}
 .side { height:80vh;
-        flex: 1 0 auto;}
+        flex: 1 0 auto;
+}
 .body { height:80vh;
-        flex: 3 0px;}
-.footer {height:10vh;}
+        flex: 3 0px;
+}
+.footer {height:10vh;
+}
 
 /*body {
   padding-left: 2em;
